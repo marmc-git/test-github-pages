@@ -1,0 +1,8 @@
+# Site settings
+title: Test Github Pages!
+author:
+  name: marmc-git
+description: "Testing github Pages functionality."
+
+# Build settings
+remote_theme: jekyll/minima
